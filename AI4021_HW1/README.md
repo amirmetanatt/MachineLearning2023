@@ -1,4 +1,3 @@
-#H# نمرین لول _ شامل دو فایل 
-HW1: تمرین های قسمت اول فعلا شامل دو قسمت در دو فایل مجزا
-////////////////////////////
-HW1: فایل های آپلود شده دومورد می باشند که در به صورت جدا قرار داده شده اند.
+(HW1)
+The first exercise contains two files.
+The uploaded files are two items that are placed separately.
